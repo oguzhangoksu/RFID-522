@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mfrc522-rpi": "^2.1.3"
+  }
+}
